@@ -1,0 +1,92 @@
+body{
+    margin: 0%;
+    padding:0;
+    background-image: linear-gradient(to right, red, purple);
+}
+
+.layer{
+    background: url(imgs/space.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    margin-top: -2%;
+}
+
+.layer1{
+    background: url(imgs/quasar.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    margin-top: -2%;
+}
+
+.layer2{
+    background: url(imgs/png-transparent-nebula-atmosphere-sky-nebula-space-astronomy-space-miscellaneous-purple-texture.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    margin-top: -2%;
+}
+
+.layer3{
+    background: url(imgs/SuperNova_by_OverlordQ.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    margin-top: -2%;
+}
+
+.layer4{
+    background: url(imgs/solarsystem.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: -2%;
+}
+
+.layer5{
+    background: url(imgs/Pinwheel_galaxy.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: -2%;
+}
+
+.layer6{
+    background: url(imgs/Nasa-dying-star.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: -2%;
+}
+
+.layer7{
+    background: url(imgs/a_giant_stars_disappear_in_deep_space_ultraviolet_3072811591.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: -2%;
+}
+
+h1{
+    justify-content: center;
+    width: 100%;
+    height:100%;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    align-items: center;
+    align-self: center;
+}
